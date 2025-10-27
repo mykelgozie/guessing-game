@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guessing-game/static/css/main.ce050566.css",
+    "main.js": "/guessing-game/static/js/main.51f1e760.js",
+    "static/js/453.22d243f2.chunk.js": "/guessing-game/static/js/453.22d243f2.chunk.js",
+    "index.html": "/guessing-game/index.html",
+    "main.ce050566.css.map": "/guessing-game/static/css/main.ce050566.css.map",
+    "main.51f1e760.js.map": "/guessing-game/static/js/main.51f1e760.js.map",
+    "453.22d243f2.chunk.js.map": "/guessing-game/static/js/453.22d243f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce050566.css",
+    "static/js/main.51f1e760.js"
+  ]
+}
